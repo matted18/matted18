@@ -12,19 +12,19 @@ Tools: Visual Studio, Visual Studio Code, Git, GitHub, CoppeliaSim
 Areas: Object-oriented programming, algorithms & data structures, web development, databases, cybersecurity and robotics
 
 # 📂 Selected Projects
-## NestMate
+### NestMate
 https://gitfront.io/r/matted18/6zFFEVRG7tcd/NestMate/
 
 React-based rental property web application featuring REST API integration, authentication, dynamic filtering and sorting, interactive maps and user ratings.
 Technologies: React, JavaScript, HTML, CSS, REST APIs, AG Grid, Pigeon Maps
 
-## Hospital Program
+### Hospital Program
 https://gitfront.io/r/matted18/B18nhAo5DdVD/Hospital-Program/
 
 C# command-line application developed to apply object-oriented programming principles to a hospital management system.
 Technologies: C#, Object-Oriented Programming
 
-## Simon Game
+### Simon Game
 https://gitfront.io/r/matted18/nSWRDPAJmiEF/Simon-Game/ 
 
 Microcontroller-based Simon memory game developed as part of a microprocessor programming project.
